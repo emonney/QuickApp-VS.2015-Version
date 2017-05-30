@@ -1,3 +1,6 @@
+## (NOTICE) This is a clone of the older bits that uses Visual Studio 2015. 
+The current/original bits are here: "https://github.com/emonney/QuickApp".
+
 # **QuickApp** - ASPNET Core / Angular2 startup project template
 [![MIT license](http://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/emonney/QuickApp/blob/master/LICENSE)
 
